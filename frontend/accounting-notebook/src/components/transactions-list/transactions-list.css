@@ -1,0 +1,26 @@
+.transactions-list-label {
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+.transactions-list-item-header {
+    margin: 15px;
+
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.transactions-list-item-header-debit {
+    color: #990000;
+}
+
+.transactions-list-item-header-credit {
+    color: #006400;
+}
+
+
+.transactions-list-item-body {
+    margin-left: 30px;
+
+    cursor: default;
+}

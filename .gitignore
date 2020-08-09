@@ -1,0 +1,6 @@
+node_modules
+/.idea/
+/frontend/node/
+/frontend/.idea/
+/backend/backend.iml
+/frontend/frontend.iml
